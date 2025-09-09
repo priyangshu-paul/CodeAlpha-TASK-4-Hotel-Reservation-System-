@@ -1,0 +1,10 @@
+R1,Deluxe,false
+R2,Suite,false
+R3,Standard,false
+R4,Deluxe,false
+R5,Suite,false
+R6,Standard,false
+R7,Deluxe,false
+R8,Suite,false
+R9,Standard,false
+R10,Deluxe,false
